@@ -82,7 +82,44 @@ Java programs
        Enter ‘*’ for multiplication.
        Enter ‘/’ for division.
        Enter ‘%’ for modulo.
-     CODE --> 
+     CODE --> arithmaticOperation.java
+20. Take the designation of an employee as user input.
+    Using switch case; set the following values, based on their designation.
+         For Engineer => Basic = 30000 HRA = 2600 DA = 3000
+         For Manager => Basic = 40000 HRA = 4600 DA = 2500
+         For Clerk => Basic = 15000 HRA = 1600 DA = 1500
+         Lastly; calculate and display Gross Salary.
+         (Gross Salary = Basic + HRA + DA)
+    CODE --> employeeDestination.java
+21.  Accept any number from the user. Using switch case, write a menu driven program to
+     perform any of the following operations :
+         1] Display the square of the number
+         2] Display the cube of the number
+         3] Check if the number is even or odd
+         4] Increment operation
+         5] Decrement operation
+     CODE --> switchOperation.java
+
+== > looping structures
+
+22. Print number series of natural numbers from 1 to 25, in continuous sequence.
+    CODE --> printNum.java
+23. Print odd number series of natural numbers 1 to n in reverse order, where n is
+    user-input.
+    CODE --> printOddNum.java
+24. Print factorial value of any number entered by the user.
+      (Hint : n! = n*(n-1)*(n-2)*(n-3)*(n-4) * ... * 1
+      Example : 5! = 5*4*3*2*1 = 120 )
+         a) using while() loop
+         b) using for() loop
+    CODE --> findFactorial.java
+25. Implement an infinite loop, through all looping structures.
+      (Infinite loop is a loop which is never terminated; i.e., when the condition is always
+      “true” it is never terminated.)
+    CODE --> infiniteLoop.java
+
+
+
 
     
 
