@@ -162,22 +162,3 @@ Java programs
     CODE --> voteFun.java
 35. Create a UDF which lets you print all the alphabets from A to Z .
     CODE --> aToZ.java
-
-    
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-   
-
-
