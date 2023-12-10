@@ -33,6 +33,19 @@ Programs about variable , print statement , user-input .
       a) Use nested if
       b) Use logical operators
     CODE --> maxFrom3Num.java
+11. Input length and width of a rectangle, and determine if it is a square or not using
+    ternary operator.
+    CODE --> squareOrNot.java
+12. Input all three angles of a triangle and display if it is a valid triangle or not.
+    (Hint : sum of all angles of a triangle = 180°)
+    CODE --> checkTriangle.java
+13. a) Check if user input is only of one character, otherwise print “Invalid input”.
+    (Hint : Use built-in method String.length() to check length of input String)
+    b) In the same code, further check if that character input by user is a vowel or a
+    consonant.
+
+
+
 
 
 
