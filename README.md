@@ -24,6 +24,16 @@ Programs about variable , print statement , user-input .
    CODE --> arithmaticOperation.java
 7. Check if a year input by user is a leap year or not.
    CODE --> leapOrNot.java
+8. Check if a number input by user is a multiple of 27 or not.
+   CODE --> multiplyOrNot.java
+9. Depending on the age input by user, display if the user is a minor (0-17 yrs), adult
+   (18-59 yrs) or a senior citizen(60+ yrs).
+   CODE --> ageDistribution.java
+10. Display greatest of 3 numbers input by user.
+      a) Use nested if
+      b) Use logical operators
+    CODE --> maxFrom3Num.java
+
 
 
    
