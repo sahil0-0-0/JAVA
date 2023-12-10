@@ -117,6 +117,26 @@ Java programs
       (Infinite loop is a loop which is never terminated; i.e., when the condition is always
       “true” it is never terminated.)
     CODE --> infiniteLoop.java
+26. Print multiplication table of number n, input by user.
+      a) using while() loop
+      b) using for() loop
+    CODE --> table.java
+27. Accept 5 integers from the user using any loop and print their average .
+    CODE --> inpUsLooop.java
+28. Two numbers n1 and n2 are entered by the user. Write a program to find the value of
+    n1 raised to the power of n2.
+         Input : n1=5, n2=3
+         Output : answer = 5³ = 125
+    CODE --> powerOfN.java
+29. Keep accepting integer values from the user. If at any time, the user enters ‘0’,
+    terminate the program. Lastly, print the product of all input numbers.
+    CODE --> inpUntill0.java
+30. Accept values of n integers (where n is also input by user). Print their sum at the end
+    of the program.
+    Consider the condition => sum should not exceed 5000 in any case. If at any time, the
+    value of sum exceeds 5000, terminate the loop.
+    CODE --> lessThan5k.java
+31. 
 
 
 
