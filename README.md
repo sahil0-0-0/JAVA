@@ -136,7 +136,34 @@ Java programs
     Consider the condition => sum should not exceed 5000 in any case. If at any time, the
     value of sum exceeds 5000, terminate the loop.
     CODE --> lessThan5k.java
-31. 
+
+== > user defined functions
+
+31. Create a user defined function named displayFactorial( ) that returns the factorial of
+    n. Take input of n from the user and pass it as a parameter while calling the function.
+    CODE --> displayFactFun.java
+32. Create a user defined function which takes an integer as input parameter and returns
+    the length of that number i.e the number of digits it contains.
+      Input : n = 235
+      Output : 3
+    CODE --> countDigit.java
+33. Take user input of 3 parameters n1, n2 and an operator. Perform the concerned
+    arithmetic operation and return the result value.
+      Input : num1 = 23, num2 = 5, opr = ‘+’
+      Output : 28
+    CODE --> arithFun.java
+34. Pass the values of the user's name, age and country, and display the message in the
+    following format.
+    Condition : Only Indian citizens, aged 18 years and above, are eligible to vote.
+      Input1 : name = Rohan, age = 21, country = India
+      Output1 : Hello Rohan, you're eligible to vote !
+      Input2 : name =Bill, age = 25, country = America
+      Output2 : Hello Bill, you're not eligible to vote !
+    CODE --> voteFun.java
+35. Create a UDF which lets you print all the alphabets from A to Z .
+    CODE --> aToZ.java
+
+    
 
 
 
