@@ -43,6 +43,27 @@ Programs about variable , print statement , user-input .
     (Hint : Use built-in method String.length() to check length of input String)
     b) In the same code, further check if that character input by user is a vowel or a
     consonant.
+    CODE --> checkChar.java
+14. Input cost price and selling price of a product and determine if there is profit or loss.
+    Display the final amount of profit / loss.
+    (Hint : Profit = SP - CP and Loss = CP - SP)
+    CODE --> profitOrLoss.java
+15.  Input marks of three subjects (m1, m2, m3) from the user. Display total percentage
+     and based on percentage, display final grade as below :
+     Perc Grade
+         70 - 100 Distinction
+         60 - 69 First Class
+         50 - 59 Second Class
+         40 - 49 Pass Class
+         0 - 39 Fail
+     CODE --> gradeDistribution.java
+16. Check if a user input number is a two-digit, three-digit or a four-digit number.
+      Example :
+      Input: 3467
+      Output: It is a four digit number !
+    CODE --> countDigit.java
+
+
 
 
 
