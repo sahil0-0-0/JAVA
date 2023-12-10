@@ -20,8 +20,10 @@ Programs about variable , print statement , user-input .
    Enter Last Name: Kohli
    Output: Your Full Name is Virat Kohli.
    CODE --> fullName.java
-6.  Write a Java program to perform basic arithmetic operations on two numbers.
-    CODE --> arithmaticOperation.java
+6. Write a Java program to perform basic arithmetic operations on two numbers.
+   CODE --> arithmaticOperation.java
+7. Check if a year input by user is a leap year or not.
+   CODE --> leapOrNot.java
 
 
    
